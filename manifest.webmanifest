@@ -1,7 +1,7 @@
 {
-  "name": "리셋 홈트 플래너",
-  "short_name": "리셋 홈트",
-  "description": "기간과 목표 감량에 맞춘 요일별 홈트 계획과 달성 체크",
+  "name": "리셋 1인 트레이너",
+  "short_name": "리셋",
+  "description": "인바디·몸무게로 분석해 기간별 홈트와 식단을 짜 주는 1인 트레이너",
   "lang": "ko",
   "start_url": "./",
   "scope": "./",

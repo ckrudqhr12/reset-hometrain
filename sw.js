@@ -1,5 +1,5 @@
 // 앱을 고치면 build-pwa.mjs가 버전을 바꿔서 휴대폰이 새 버전을 받게 함
-const VERSION = '202611180107';
+const VERSION = '202611240836';
 const CACHE = 'reset-hometrain-' + VERSION;
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-180.png'];
 
